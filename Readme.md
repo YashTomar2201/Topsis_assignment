@@ -1,4 +1,4 @@
-# Topsis-Simanta-102483083
+# Topsis-Yash-102303766
 
 This is a Python package to implement the TOPSIS (Technique for Order of Preference by Similarity to Ideal Solution) method for Multi-Criteria Decision Making (MCDM).
 
@@ -7,4 +7,4 @@ This is a Python package to implement the TOPSIS (Technique for Order of Prefere
 You can install this package using pip:
 
 ```bash
-pip install Topsis-Simanta-102483083
+pip install Topsis-Yash-102303766
